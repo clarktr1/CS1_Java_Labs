@@ -4,10 +4,10 @@
 This is a repo of collected and created labs that cater towards beginner CS students. Topics include variable declaration/manipulation, control flow, conditional statements, operators, loops, arrays, and basic OOP.
 
 ## Table of Contents
-- [Lab 1 - Hello World]
-- [Lab 2 - Car Loan Calculator]
-- [Lab 3 Basic Calculator]
-- [Lab 4 Nuts and Bolts]
+- [Lab 1 - Hello World](#lab-1-hello-world)
+- [Lab 2 - Car Loan Calculator](#lab-2-car-loan-calculator)
+- [Lab 3 - Basic Calculator](#lab-3-basic-calculator)
+- [Lab 4 - Nuts and Bolts](#lab-4-nuts-and-bolts)
 
 ## Lab List
 
