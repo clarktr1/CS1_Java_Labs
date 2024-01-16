@@ -9,8 +9,8 @@ This is a repo of collected and created labs that cater towards beginner CS stud
 - [Lab 3 - Basic Calculator](#lab-3-basic-calculator)
 - [Lab 4 - Nuts and Bolts](#lab-4-nuts-and-bolts)
 - [Lab 5 - Bottles On The Wall](#lab-5-bottles-on-the-wall)
-- [Lab 5 - Guessing Game](#lab-6-guessing-game)
-- [Lab 5 - Bottles On The Wall](#lab-7-pet-store-ui)
+- [Lab 6 - Guessing Game](#lab-6-guessing-game)
+- [Lab 7 - Pet Store UI](#lab-7-pet-store-ui)
 
 ## Lab List
 
