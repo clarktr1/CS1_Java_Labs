@@ -9,6 +9,8 @@ This is a repo of collected and created labs that cater towards beginner CS stud
 - [Lab 3 - Basic Calculator](#lab-3-basic-calculator)
 - [Lab 4 - Nuts and Bolts](#lab-4-nuts-and-bolts)
 - [Lab 5 - Bottles On The Wall](#lab-5-bottles-on-the-wall)
+- [Lab 5 - Guessing Game](#lab-6-guessing-game)
+- [Lab 5 - Bottles On The Wall](#lab-7-pet-store-ui)
 
 ## Lab List
 
@@ -38,6 +40,20 @@ This is a repo of collected and created labs that cater towards beginner CS stud
 - while loops
 - increment/decrement
 - state management
+
+### [Lab 6 Guessing Game](https://github.com/clarktr1/CS1_Java_Labs/blob/main/GuessingGame.md)
+#### Topics Covered
+- random number generation
+- accumulation
+- comparing numerical values
+
+### [Lab 7 Pet Store UI](https://github.com/clarktr1/CS1_Java_Labs/blob/main/PetStoreUI.md)
+#### Topics Covered
+- Creating "if statements" properly
+- Using relational operators
+- Using logical operators
+- Comparing String data and variables
+- Using Boolean variables properly
 
 ## Contributions
 Thanks to the staff and students of Frisco ISD for allowing me to use and create learning material. ALl of this would not be possible without the collarboation and mentorship of my peers. Labs included in this repo are collaborations as well as original content. 
