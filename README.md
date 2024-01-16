@@ -8,6 +8,7 @@ This is a repo of collected and created labs that cater towards beginner CS stud
 - [Lab 2 - Car Loan Calculator](#lab-2-car-loan-calculator)
 - [Lab 3 - Basic Calculator](#lab-3-basic-calculator)
 - [Lab 4 - Nuts and Bolts](#lab-4-nuts-and-bolts)
+- [Lab 5 - Bottles On The Wall](#lab-5-bottles-on-the-wall)
 
 ## Lab List
 
@@ -31,6 +32,12 @@ This is a repo of collected and created labs that cater towards beginner CS stud
 - if...else statements
 - variable manipulation
 - control flow
+
+### [Lab 5 Bottles on the Wall](https://github.com/clarktr1/CS1_Java_Labs/blob/main/BottlesOnTheWall.md)
+#### Topics Covered
+- while loops
+- increment/decrement
+- state management
 
 ## Contributions
 Thanks to the staff and students of Frisco ISD for allowing me to use and create learning material. ALl of this would not be possible without the collarboation and mentorship of my peers. Labs included in this repo are collaborations as well as original content. 
