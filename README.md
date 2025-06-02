@@ -4,6 +4,7 @@
 This is a repo of collected and created labs that cater towards beginner CS students. Topics include variable declaration/manipulation, control flow, conditional statements, operators, loops, arrays, and basic OOP.
 
 ## Table of Contents
+- [How to get started](#how-to-get-started)
 - [Lab 1 - Hello World](#lab-1-hello-world)
 - [Lab 2 - Car Loan Calculator](#lab-2-car-loan-calculator)
 - [Lab 3 - Basic Calculator](#lab-3-basic-calculator)
@@ -11,6 +12,10 @@ This is a repo of collected and created labs that cater towards beginner CS stud
 - [Lab 5 - Bottles On The Wall](#lab-5-bottles-on-the-wall)
 - [Lab 6 - Guessing Game](#lab-6-guessing-game)
 - [Lab 7 - Pet Store UI](#lab-7-pet-store-ui)
+
+## How to get started
+The first thing you will need is an Integerated Development Environment (IDE). There are several to choose from. With the simplicity of these labs, I highly recommend using [BlueJ](https://www.bluej.org/). It is lightway and extremely easy to set up and use. The labs will start with "Open BlueJ". If you choose to use a different IDE, ignore the step. 
+Please look at the [documentation](https://www.bluej.org/doc/documentation.html) for help with learning how to use BlueJ. 
 
 ## Lab List
 
